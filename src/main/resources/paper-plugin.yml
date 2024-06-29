@@ -1,0 +1,4 @@
+name: MUC_Chat
+version: '${version}'
+main: org.muc.muc_chat.MUC_Chat
+api-version: '1.20'
